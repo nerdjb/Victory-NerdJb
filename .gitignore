@@ -1,0 +1,19 @@
+# Never add game content, dumps, keys, firmware, binaries or build output.
+*.exe
+*.dll
+*.bin
+*.elf
+*.zar
+*.pkg
+*.rap
+*.pdb
+eboot.bin
+game_scarlett_master.exe
+*key*
+*firmware*
+*decrypt*
+*jailbreak*
+_build/
+logs/
+__pycache__/
+*.pyc
